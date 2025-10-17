@@ -148,7 +148,7 @@ void loop() {
 }
 ```
 # CIRCUIT DIAGRAM:
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1954671a-edc9-494f-a920-abc67d718f3e" />
+<img width="964" height="1280" alt="image" src="https://github.com/user-attachments/assets/48110f8f-9c26-4905-82ac-391e53be4194" />
 
 # OUTPUT:
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/47bde62d-a1d0-4249-98d0-059806e0659a" />
