@@ -148,10 +148,10 @@ void loop() {
 }
 ```
 # CIRCUIT DIAGRAM:
-![Uploading image.png…]()
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1954671a-edc9-494f-a920-abc67d718f3e" />
 
 # OUTPUT:
-<img width="1376" height="859" alt="image" src="https://github.com/user-attachments/assets/49562324-6b5b-4beb-b758-8d1bf00354d0" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/47bde62d-a1d0-4249-98d0-059806e0659a" />
 <img width="203" height="197" alt="image" src="https://github.com/user-attachments/assets/9320be33-260d-428d-97d9-56010646900c" />
 
 # RESULT:
